@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448887158 source:g:\codeblocks\30-11_wiele_argumentow_zwrotnych\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
